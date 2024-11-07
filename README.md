@@ -29,7 +29,7 @@ The script should perform the requested operation and display the result.
 Your project folder should look like this:
 
 ```bash
-problem-7-calculator/
+07-simple-calculator-node-problem/
 ├── calculator.js     # The main script for the command-line calculator
 ├── README.md         # Documentation for this problem
 └── package.json      # Project configuration file
